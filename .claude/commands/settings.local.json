@@ -1,0 +1,6 @@
+{
+    "premissions": {
+        "allow": ["mcp__playwright"],
+        "deny": []
+    }
+}
